@@ -26,7 +26,8 @@ ui <- fluidPage(
 					 "The Big Short", br(),
 					 "Algorithms to Live By: The Computer Science of Human Decisions", br(), 
 					 "The Drunkard's Walk: How Randomness Rules Our Lives", br()
-					 )
+					 ),
+	tabPanel("rna seq pipeline")
 	))
 	
 )
